@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180210075268",
+    "project_id": "beaconfaceattendance",
+    "storage_bucket": "beaconfaceattendance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180210075268:android:788427aeebcd742d7aa4d1",
+        "android_client_info": {
+          "package_name": "com.example.beaconfaceattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXzq0OQ8MjxXywAOFZ0vCkrI1s3y07HF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
